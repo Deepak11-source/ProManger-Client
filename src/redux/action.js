@@ -1,4 +1,4 @@
-export const url ="https://workserver-1.onrender.com";
+export const url ="https://promanager-server.onrender.com";
 
 export const getdatarequest = "GETDATAREQUEST";
 export const getdatasucces = "GETDATA";
